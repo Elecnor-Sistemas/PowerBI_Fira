@@ -10,3 +10,7 @@ Este archivo README.md será actualizado con los cambios/actualizaciones mas rel
 
 - Repositorio creado
 - Buenas prácticas
+
+## V1.0
+
+-Se sube la ultima versión que se tiene del proyecto como punto de partida del repositorio.
